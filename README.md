@@ -9,4 +9,5 @@ Although the function of this program can largely be duplicated simply by runnin
 
   `watch cat /proc/drbdstat`,
   
-... we add the ability to adjust the update speed of the display.
+... we add the ability to adjust the update speed of the display and on-the-fly enable/disable
+of DRBD details.
